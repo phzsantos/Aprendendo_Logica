@@ -11,6 +11,14 @@ Country: Brazil
 
 # Tarefas:
 
+# Preparar o forno
+	# Aquecer o forno 
+		# Ligar o forno 
+
+# Achar uma receita        
+	# Buscar na internet   
+	# Imprimir a receita
+
 # Pegar os ingredientes
 	# Fermento
 	# Leite
@@ -19,17 +27,11 @@ Country: Brazil
 	# Açucar
 	# Ovos
 
-# Achar uma receita        
-	# Buscar na internet   
-	# Imprimir a receita
-
 # Preparar a massa
-	# Bater a gema
 	# Bater a clara
+	# Bater a gema
 	# Juntar todo o resto
 
-# Colocar no forno
-	# Aquecer o forno 
-		# Ligar o forno               
-		# Esperar ele ficar quente
+# Colocar no forno              
+	# Esperar ele ficar quente
 

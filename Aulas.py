@@ -38,3 +38,10 @@ Country: Brazil
 
 # Quando você chegar numa atividade que nunca fez, quebre ela em menores Que você Já tenha feito 
 # ou já sabe fazer.
+
+
+
+#--------------------------------------Terceira Aula--------------------------------------#
+
+# Agora vamos olhar para o nosso codigo e aplicar logica nele, o que pode ser cortado, o que
+# pode ocorrer em paralelo, o que pode vir antes para economizar recursos.
