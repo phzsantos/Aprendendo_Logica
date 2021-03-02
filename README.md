@@ -14,7 +14,7 @@
 
 ### Documentação:
 
-- [ ] Parte 1 - O que é logica?
+- [x] Parte 1 - O que é logica?
 - [ ] Parte 2 - Definindo Objetivo e Atividades em Lógica de Programação
 - [ ] Parte 3 - Definindo a ordem das Atividades, em Lógica de programação
 - [ ] Parte 4 - Entendendo Comandos e Parâmetros em Lógica de programação
