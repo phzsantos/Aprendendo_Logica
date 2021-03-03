@@ -45,3 +45,22 @@ Country: Brazil
 
 # Agora vamos olhar para o nosso codigo e aplicar logica nele, o que pode ser cortado, o que
 # pode ocorrer em paralelo, o que pode vir antes para economizar recursos.
+
+
+
+#--------------------------------------Quarta Aula--------------------------------------#
+
+# Todas as linguagens de programação tem:
+
+#Comando + parametro
+
+
+# O computador não sabe interpretar o que você diz pra ele. Ele só obedece comandos. 
+# O computador não decide sozinho.
+# O computador não faz nada a não ser que você diga pra ele fazer
+# Todo verbo, para o computador é igual a uma ação, que por consequencia é um comando.
+
+
+#--------------------------------------Quinta Aula--------------------------------------#
+
+
