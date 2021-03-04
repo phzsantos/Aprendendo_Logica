@@ -80,3 +80,23 @@ Country: Brazil
 
 
 
+#--------------------------------------Setima Aula--------------------------------------#
+
+# Listas e dicionarios
+
+# Cada informação tem 1 item = lista
+# Duas informações em um mesmo item = dicionario
+
+# dentro de uma lista pode ter um dicionario
+
+# As listas servem realmente como listas, varias variaveis dentro de apenas um lugar
+
+# Lista de receitas = [                                      -|  
+# 	bolo de cenoura: 20 min,                   -|             | Lista
+# 	bolo de fubá: 25 min,                       | Dicionario  |
+# 	bolo de festa: 30 min,                      |             |  
+# 	bolo branco: 30 min                        -|             |
+# ]                                                          -|
+
+
+

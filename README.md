@@ -20,7 +20,7 @@
 - [x] Parte 4 - Entendendo Comandos e Parâmetros em Lógica de programação
 - [x] Parte 5 - O que são Estruturas de Decisão e Repetição em Lógica de programação
 - [x] Parte 6 - O que são Variáveis e Constantes
-- [ ] Parte 7 - Pra que servem Listas e Dicionarios em Programação
+- [x] Parte 7 - Pra que servem Listas e Dicionarios em Programação
 - [ ] Parte 8 - Fazendo operações aritimeticas com variáveis
 - [ ] Parte 9 - O que são Funções e como usá-las em Programação (1a Parte)
 - [ ] Parte 10 - O que são Funções e como usá-las em Programação (2a Parte)

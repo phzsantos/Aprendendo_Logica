@@ -17,7 +17,13 @@ Country: Brazil
 
 # Achar uma receita
 	# Se eu não tiver uma receita:        
-		# Buscar na internet   
+		# Buscar na internet
+			# Lista_de_receitas = [
+#				  		bolo de cenoura: 20 min,
+#						bolo de fubá: 25 min,					
+#						bolo de festa: 30 min
+#				 	]  
+		# Escolher a receita da Lista_de_receitas (mais rápida)
 		# Imprimir a receita
 	# Ler receita
 
