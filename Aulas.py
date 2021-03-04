@@ -100,3 +100,19 @@ Country: Brazil
 
 
 
+#--------------------------------------Oitava Aula--------------------------------------#
+
+# Operações com variaveis
+
+# Operadores logicos (E, ou e não)
+# Operadores aritimeticos (+, - e etc)
+# Operadores relacionais (>,<, ==, != e etc)
+
+# Os operadores servem para automatizar tarefas, criar padrões de comportamento de acordo
+# com a demanda da Tarefa. 
+
+
+
+
+
+
