@@ -22,12 +22,12 @@ Country: Brazil
 	# Ler receita
 
 # Pegar os ingredientes
-	# Fermento
-	# Leite
-	# Margarina
-	# Farinha
-	# Açucar
-	# Ovos
+	# Fermento = quantidade de fermento da receita 
+	# Leite = quantidade de leite da receita
+	# Margarina = quantidade de margarina da receita
+	# Farinha = quantidade de farinha da receita
+	# Açucar = farinha - 1
+	# Ovos = 3 
 
 # Preparar a massa
 	# Enquanto a clara não estiver em neve:

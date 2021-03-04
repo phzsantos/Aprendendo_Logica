@@ -72,3 +72,11 @@ Country: Brazil
 # Estrutura de repetição: Enquanto
 
 
+
+#--------------------------------------Sexta Aula--------------------------------------#
+
+# Quando algo for de valor variavel, sempre atribuir a uma variavel. 
+# Constantes são como caixas que guardam valores e as variaveis são o que está dentro das caixa
+
+
+
