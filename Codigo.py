@@ -15,9 +15,11 @@ Country: Brazil
 	# Aquecer o forno 
 		# Ligar o forno 
 
-# Achar uma receita        
-	# Buscar na internet   
-	# Imprimir a receita
+# Achar uma receita
+	# Se eu não tiver uma receita:        
+		# Buscar na internet   
+		# Imprimir a receita
+	# Ler receita
 
 # Pegar os ingredientes
 	# Fermento
@@ -28,7 +30,8 @@ Country: Brazil
 	# Ovos
 
 # Preparar a massa
-	# Bater a clara
+	# Enquanto a clara não estiver em neve:
+		# Bater a clara
 	# Bater a gema
 	# Juntar todo o resto
 

@@ -63,4 +63,12 @@ Country: Brazil
 
 #--------------------------------------Quinta Aula--------------------------------------#
 
+# O computador sempre lê de cima pra baixo. 
+# ele so completa uma função depois de completar todas as outras que estão dentro dela
+
+
+# Estrutura de Decisão: Se, senao
+
+# Estrutura de repetição: Enquanto
+
 
