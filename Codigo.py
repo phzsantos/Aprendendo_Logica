@@ -39,10 +39,18 @@ Country: Brazil
 
 # Preparar a massa
 	# Enquanto a clara não estiver em neve:
-		# Bater a clara
-	# Bater a gema
+		# Bater(clara)
+	# Enquanto a massa não estiver uniforme:
+		# Bater([ gema, leite, farinha, margarina e açucar ])
 	# Juntar todo o resto
 
 # Colocar no forno              
 	# Esperar ele ficar quente
+
+
+
+
+# Bater(ingrediente):
+	# Colocar ingrediente na mistura
+	# Misturar
 

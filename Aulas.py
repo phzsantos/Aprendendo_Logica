@@ -113,6 +113,14 @@ Country: Brazil
 
 
 
+#--------------------------------------Nona Aula--------------------------------------#
+
+# Funções
+
+# Funções são  a forma de suprir a falta de outros comandos que você precise na linguagem
+# Funções são comandos criados pelo usuário, com outros comandos que já estão na linguagem
 
 
+# EXEMPLO
 
+# Eu não tenho o comando Menu em python, porém eu posso criar ele apartir do print() e etc
