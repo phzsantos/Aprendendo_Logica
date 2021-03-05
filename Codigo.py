@@ -9,6 +9,8 @@ Country: Brazil
 
 # OBJETIVO: Fazer um bolo     
 
+#INICIO
+
 # Tarefas:
 
 # Preparar o forno
@@ -38,19 +40,22 @@ Country: Brazil
 	# Ovos = 3 
 
 # Preparar a massa
-	# Enquanto a clara não estiver em neve:
-		# Bater(clara)
-	# Enquanto a massa não estiver uniforme:
-		# Bater([ gema, leite, farinha, margarina e açucar ])
+	# Bater(clara, neve)
+	# Bater([ gema, leite, farinha, margarina e açucar ], uniforme)
 	# Juntar todo o resto
 
 # Colocar no forno              
 	# Esperar ele ficar quente
 
+#FIM
 
 
 
-# Bater(ingrediente):
-	# Colocar ingrediente na mistura
-	# Misturar
+# Funções
+
+# Bater(ingrediente, resultado):
+	# Para cada ingrediente:
+		# Colocar ingrediente na mistura
+	# Enquanto ingrediente não for igual a resultado:
+		# Misturar
 

@@ -124,3 +124,24 @@ Country: Brazil
 # EXEMPLO
 
 # Eu não tenho o comando Menu em python, porém eu posso criar ele apartir do print() e etc
+
+
+
+#--------------------------------------Decima Aula--------------------------------------#
+
+# Continuação Funções
+
+# Toda vez que uma função é chamada no codigo, o codigo vai ir ler a função onde quer que
+# ela esteja. Se ela não for chamada o codigo simplesmente vai ignora-la.
+
+
+# Para: o para vai do começo ate o final de uma lista, ele lê todos os registros ate o ultimo
+
+
+# Elaborando ainda mais as funções nos podemos com elas, economizar no codigo. 
+# Podemos fazer com que elas façam algo ate um certo resultado esperado.
+
+# Exemplo: Olhar o codigo.py 
+
+
+
