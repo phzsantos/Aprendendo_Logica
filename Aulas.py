@@ -152,4 +152,16 @@ Country: Brazil
 # Os seres humanos tomam varias decisões por si só, o computador não. 
 # Sempre fazer funções caso algo saia errado, erro de usuário ou erro de agentes externos
 
-# EXEMPLO: impressora sem papel, Acabou o toner, usuário digitou errado... 
+# EXEMPLO: impressora sem papel, Acabou o toner, usuário digitou errado...
+
+
+
+#--------------------------------------Decima Segunda Aula--------------------------------------# 
+
+# Listas de estruturas
+
+# A verdadeira funcionalidade de uma função é ser um programa dentro de um programa
+# Você sempre vai ter que programar com varias linhas, porque vai ter que prever os possiveis
+# erros do usuário, pra isso você cria funções, que contem comandos, que viram pequenos programas
+# dentro de um programa maior. Esses microprogramas são o que fazem o seu programa ser bom
+# pois ele cumpre a função dele e funciona não importa o que aconteça. 
