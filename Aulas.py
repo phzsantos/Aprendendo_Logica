@@ -165,3 +165,70 @@ Country: Brazil
 # erros do usuário, pra isso você cria funções, que contem comandos, que viram pequenos programas
 # dentro de um programa maior. Esses microprogramas são o que fazem o seu programa ser bom
 # pois ele cumpre a função dele e funciona não importa o que aconteça. 
+
+
+
+#--------------------------------------Decima Terceira Aula--------------------------------------#
+
+""" Estruturas basicas """
+
+# Comandos e Parametros:
+  import      datetime
+
+# Operações aritimeticas:
+	+ - * / 
+
+# Operações logicas:
+	and or not  True False
+
+# Operações relacionais:
+	> < != == >= =< True False
+
+
+
+""" Estruturas de dados """
+
+# Variaveis e Constantes:
+ receita_escolhida = "bolo de cenoura"
+
+# Listas:
+ Lista_de_receitas = [
+ 				'bolo de fuba',
+ 				'bolo de cenoura',
+ 				'bolo de milho'
+ 				]
+
+# Dicionario:
+ Detalhes_receita = {
+ 				Tipo: "bolo de cenoura",
+ 				Tempo: "20 min",
+ 				Ingredientes: {
+ 					   "Açucar": 2,
+ 					   "Farinha": 3,
+ 					   "Fermento": 1,
+ 						}
+ 				}
+
+
+
+""" Estruturas de decisão """
+	if else elif
+
+
+
+""" Estruturas de repetição """
+
+# Enquanto:
+ while resultado == True:
+ 	pass
+
+# Para cada
+ for Ingredientes in Lista_ingradientes:
+ 	pass
+
+
+
+""" Funções """
+
+def imprimir receita(receita):
+	print(receita)
