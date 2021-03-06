@@ -145,3 +145,11 @@ Country: Brazil
 
 
 
+#--------------------------------------Decima primeira Aula--------------------------------------#
+
+# Final Funções
+
+# Os seres humanos tomam varias decisões por si só, o computador não. 
+# Sempre fazer funções caso algo saia errado, erro de usuário ou erro de agentes externos
+
+# EXEMPLO: impressora sem papel, Acabou o toner, usuário digitou errado... 

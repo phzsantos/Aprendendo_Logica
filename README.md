@@ -24,7 +24,7 @@
 - [x] Parte 8 - Fazendo operações aritimeticas com variáveis
 - [x] Parte 9 - O que são Funções e como usá-las em Programação (1a Parte)
 - [x] Parte 10 - O que são Funções e como usá-las em Programação (2a Parte)
-- [ ] Parte 11 - O que são Funções e como usá-las em Programação (3a Parte)
+- [x] Parte 11 - O que são Funções e como usá-las em Programação (3a Parte)
 - [ ] Parte 12 - Lista de Estruturas de Programação
 - [ ] Parte 13 - O que é um algoritmo de programação
 - [ ] Parte 14 - Considerações Finais

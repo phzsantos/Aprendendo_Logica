@@ -28,7 +28,7 @@ Country: Brazil
 		# Escolher a receita da Lista_de_receitas
 			# Se receita < 30 min e bolo != fubá:
 				# Escolher receita
-		# Imprimir a receita
+		# Imprimir_receita(receita)
 	# Ler receita
 
 # Pegar os ingredientes
@@ -58,4 +58,14 @@ Country: Brazil
 		# Colocar ingrediente na mistura
 	# Enquanto ingrediente não for igual a resultado:
 		# Misturar
+
+
+# Imprimir_receita(receita):
+	# Se a impressora estiver sem papel:
+		# Colocar papel
+	# Tentar:
+		# Imprimir a receita
+	# Se der erro no toner:
+		# Trocar o toner
+		# Tentar novamente
 
