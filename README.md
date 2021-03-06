@@ -27,4 +27,4 @@
 - [x] Parte 11 - O que são Funções e como usá-las em Programação (3a Parte)
 - [x] Parte 12 - Lista de Estruturas de Programação
 - [x] Parte 13 - O que é um algoritmo de programação
-- [ ] Parte 14 - Considerações Finais
+- [x] Parte 14 - Considerações Finais

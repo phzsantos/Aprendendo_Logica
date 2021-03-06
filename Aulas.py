@@ -232,3 +232,14 @@ Country: Brazil
 
 def imprimir receita(receita):
 	print(receita)
+
+
+
+#--------------------------------------Decima Quarta Aula--------------------------------------#
+
+# Considerações finais
+
+# Sempre fazer o algoritmo por escrito ou por forma visual (fluxograma)
+# Sabendo logica, basta construir o algoritmo e ir programando conforme o algoritmo.
+
+# Ate a proxima!	
